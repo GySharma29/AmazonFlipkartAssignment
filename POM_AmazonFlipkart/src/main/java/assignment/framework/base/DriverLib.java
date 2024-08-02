@@ -11,7 +11,7 @@ public class DriverLib {
      {
                 
 
-               // If the browser is Chrome
+               // If the browser is Chrome than run this section
               if(browsername.equalsIgnoreCase("Chrome"))
               {
                           // Set the path for chromedriver.exe
